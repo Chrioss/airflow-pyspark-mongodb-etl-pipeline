@@ -181,13 +181,13 @@ project-directory
 
 ## DAG Workflow
 
-![DAG Graph](P2M3_Christian_Ambarita_DAG_graph.jpg)
+![DAG Graph](P2M3_Christian_Ambarita_DAG_graph.png)
 
 ---
 
 ## MongoDB Result
 
-![MongoDB Result](P2M3_Christian_Ambarita_screenshot_mongo.jpg)
+![MongoDB Result](P2M3_Christian_Ambarita_screenshot_mongo.jpg.png)
 
 ---
 
